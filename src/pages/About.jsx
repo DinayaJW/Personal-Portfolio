@@ -89,13 +89,12 @@ const About = () => {
             </div>
             <div className="about-text">
               <p>
-              I am a passionate Computer Science student with a strong interest in software development, algorithms, and artificial intelligence. I enjoy solving complex problems and developing applications that create a meaningful impact. 
+              I am a passionate Computer Science student with a strong interest in software development, algorithms, and UI/UX. I enjoy solving complex problems and developing applications that create a meaningful impact. </p>
+              <p>
+              Currently pursuing my Bachelor's degree in Computer Science, I am constantly expanding my knowledge and skills through coursework and personal projects. I am eager to apply my expertise in a professional setting and contribute to innovative solutions that drive technological advancement
               </p>
               <p>
-              Currently pursuing my Bachelor's degree in Computer Science, I continuously expand my knowledge and skills through coursework, personal projects, and hackathons. I am eager to apply my expertise in a professional setting and contribute to innovative solutions that drive technological advancement.
-              </p>
-              <p>
-              Beyond academics, I actively volunteer with IEEE, gaining experience in teamwork and leadership while contributing to technical and community-driven initiatives. Additionally, I have participated in sports like hockey and chess, which have enhanced my strategic thinking, discipline, and ability to work under pressure
+              Beyond academics, I actively volunteer with IEEE, gaining valuable experience in teamwork and leadership while contributing to technical and community-driven initiatives. Additionally, my participation in sports like hockey and chess has sharpened my strategic thinking, discipline, and ability to perform under pressure.
               </p>
             </div>
           </div>
